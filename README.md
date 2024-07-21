@@ -55,4 +55,4 @@ The analysis highlights critical factors influencing the decision to buy fixed d
 |   |-- Figure 1.png
 |   |-- Figure 2.png
 |   |-- ...
-|-- LICENSE
+|-- Fixed Deposit Targeted Marketing Strategies- Insights from BCN Bank's Campaign Analysis.pdf
