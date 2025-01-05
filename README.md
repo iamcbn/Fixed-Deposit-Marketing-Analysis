@@ -1,3 +1,4 @@
+![A jar of coins](https://media.istockphoto.com/id/691586724/photo/fixed-deposit.jpg?s=612x612&w=0&k=20&c=wgrD5fi-nv0OsV-G6ObP-fcZhv-b6G7TL29WABIn64Y=)  
 # Fixed Deposit Targeted Marketing Strategies: Insights from BCN Bank's Campaign Analysis
 
 ## Introduction
